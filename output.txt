@@ -1,0 +1,1098 @@
+anikethjr@anikethjr-Lenovo-Z50-70:~/TeChess$ python W16.py 
+------------------ TeChess v0.1 ------------------
+What do you choose - Black or White?
+Black
+Welcome....Waking up TeChess
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+(-23755, Move.from_uci('e2e3'))
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B Q K B N R
+
+Enter your move in UCI format
+c7c5
+r n b q k b n r
+p p . p p p p p
+. . . . . . . .
+. . p . . . . .
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B Q K B N R
+
+(-23710, Move.from_uci('d1h5'))
+r n b q k b n r
+p p . p p p p p
+. . . . . . . .
+. . p . . . . Q
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B . K B N R
+
+Enter your move in UCI format
+g7g6
+r n b q k b n r
+p p . p p p . p
+. . . . . . p .
+. . p . . . . Q
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B . K B N R
+
+(-23455, Move.from_uci('h5c5'))
+r n b q k b n r
+p p . p p p . p
+. . . . . . p .
+. . Q . . . . .
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B . K B N R
+
+Enter your move in UCI format
+d2d3
+Invalid move. Enter again
+r n b q k b n r
+p p . p p p . p
+. . . . . . p .
+. . Q . . . . .
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B . K B N R
+
+Enter your move in UCI format
+d7d6
+r n b q k b n r
+p p . . p p . p
+. . . p . . p .
+. . Q . . . . .
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B . K B N R
+
+(-23355, Move.from_uci('f1b5'))
+r n b q k b n r
+p p . . p p . p
+. . . p . . p .
+. B Q . . . . .
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B . K . N R
+
+Enter your move in UCI format
+c8d7
+r n . q k b n r
+p p . b p p . p
+. . . p . . p .
+. B Q . . . . .
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B . K . N R
+
+(-23365, Move.from_uci('c5d5'))
+r n . q k b n r
+p p . b p p . p
+. . . p . . p .
+. B . Q . . . .
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B . K . N R
+
+Enter your move in UCI format
+g8f6
+r n . q k b . r
+p p . b p p . p
+. . . p . n p .
+. B . Q . . . .
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B . K . N R
+
+(-22880, Move.from_uci('d5b7'))
+r n . q k b . r
+p Q . b p p . p
+. . . p . n p .
+. B . . . . . .
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B . K . N R
+
+Enter your move in UCI format
+d7c6
+r n . q k b . r
+p Q . . p p . p
+. . b p . n p .
+. B . . . . . .
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B . K . N R
+
+(-22475, Move.from_uci('b5c6'))
+r n . q k b . r
+p Q . . p p . p
+. . B p . n p .
+. . . . . . . .
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B . K . N R
+
+Enter your move in UCI format
+b8d7
+r . . q k b . r
+p Q . n p p . p
+. . B p . n p .
+. . . . . . . .
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B . K . N R
+
+(-21930, Move.from_uci('b7a8'))
+Q . . q k b . r
+p . . n p p . p
+. . B p . n p .
+. . . . . . . .
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B . K . N R
+
+Enter your move in UCI format
+e7e6
+Q . . q k b . r
+p . . n . p . p
+. . B p p n p .
+. . . . . . . .
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B . K . N R
+
+(-21590, Move.from_uci('a8d8'))
+. . . Q k b . r
+p . . n . p . p
+. . B p p n p .
+. . . . . . . .
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B . K . N R
+
+Enter your move in UCI format
+e8e7
+Invalid move. Enter again
+. . . Q k b . r
+p . . n . p . p
+. . B p p n p .
+. . . . . . . .
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B . K . N R
+
+Enter your move in UCI format
+e8d8
+. . . k . b . r
+p . . n . p . p
+. . B p p n p .
+. . . . . . . .
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B . K . N R
+
+(-21635, Move.from_uci('c6d7'))
+. . . k . b . r
+p . . B . p . p
+. . . p p n p .
+. . . . . . . .
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B . K . N R
+
+Enter your move in UCI format
+d8d7
+. . . . . b . r
+p . . k . p . p
+. . . p p n p .
+. . . . . . . .
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B . K . N R
+
+(-21585, Move.from_uci('g1h3'))
+. . . . . b . r
+p . . k . p . p
+. . . p p n p .
+. . . . . . . .
+. . . . . . . .
+. . . . P . . N
+P P P P . P P P
+R N B . K . . R
+
+Enter your move in UCI format
+d6d5
+. . . . . b . r
+p . . k . p . p
+. . . . p n p .
+. . . p . . . .
+. . . . . . . .
+. . . . P . . N
+P P P P . P P P
+R N B . K . . R
+
+(-21565, Move.from_uci('e3e4'))
+. . . . . b . r
+p . . k . p . p
+. . . . p n p .
+. . . p . . . .
+. . . . P . . .
+. . . . . . . N
+P P P P . P P P
+R N B . K . . R
+
+Enter your move in UCI format
+f6e4
+. . . . . b . r
+p . . k . p . p
+. . . . p . p .
+. . . p . . . .
+. . . . n . . .
+. . . . . . . N
+P P P P . P P P
+R N B . K . . R
+
+(-21545, Move.from_uci('h3f4'))
+. . . . . b . r
+p . . k . p . p
+. . . . p . p .
+. . . p . . . .
+. . . . n N . .
+. . . . . . . .
+P P P P . P P P
+R N B . K . . R
+
+Enter your move in UCI format
+f8c5
+. . . . . . . r
+p . . k . p . p
+. . . . p . p .
+. . b p . . . .
+. . . . n N . .
+. . . . . . . .
+P P P P . P P P
+R N B . K . . R
+
+(-21445, Move.from_uci('b1c3'))
+. . . . . . . r
+p . . k . p . p
+. . . . p . p .
+. . b p . . . .
+. . . . n N . .
+. . N . . . . .
+P P P P . P P P
+R . B . K . . R
+
+Enter your move in UCI format
+h8b8
+. r . . . . . .
+p . . k . p . p
+. . . . p . p .
+. . b p . . . .
+. . . . n N . .
+. . N . . . . .
+P P P P . P P P
+R . B . K . . R
+
+(-21190, Move.from_uci('c3e4'))
+. r . . . . . .
+p . . k . p . p
+. . . . p . p .
+. . b p . . . .
+. . . . N N . .
+. . . . . . . .
+P P P P . P P P
+R . B . K . . R
+
+Enter your move in UCI format
+d5e4
+. r . . . . . .
+p . . k . p . p
+. . . . p . p .
+. . b . . . . .
+. . . . p N . .
+. . . . . . . .
+P P P P . P P P
+R . B . K . . R
+
+(-21180, Move.from_uci('f4g6'))
+. r . . . . . .
+p . . k . p . p
+. . . . p . N .
+. . b . . . . .
+. . . . p . . .
+. . . . . . . .
+P P P P . P P P
+R . B . K . . R
+
+Enter your move in UCI format
+f7g6
+. r . . . . . .
+p . . k . . . p
+. . . . p . p .
+. . b . . . . .
+. . . . p . . .
+. . . . . . . .
+P P P P . P P P
+R . B . K . . R
+
+(-21195, Move.from_uci('f2f3'))
+. r . . . . . .
+p . . k . . . p
+. . . . p . p .
+. . b . . . . .
+. . . . p . . .
+. . . . . P . .
+P P P P . . P P
+R . B . K . . R
+
+Enter your move in UCI format
+b8b4
+. . . . . . . .
+p . . k . . . p
+. . . . p . p .
+. . b . . . . .
+. r . . p . . .
+. . . . . P . .
+P P P P . . P P
+R . B . K . . R
+
+(-21150, Move.from_uci('c2c3'))
+. . . . . . . .
+p . . k . . . p
+. . . . p . p .
+. . b . . . . .
+. r . . p . . .
+. . P . . P . .
+P P . P . . P P
+R . B . K . . R
+
+Enter your move in UCI format
+b4a4
+. . . . . . . .
+p . . k . . . p
+. . . . p . p .
+. . b . . . . .
+r . . . p . . .
+. . P . . P . .
+P P . P . . P P
+R . B . K . . R
+
+(-21155, Move.from_uci('b2b3'))
+. . . . . . . .
+p . . k . . . p
+. . . . p . p .
+. . b . . . . .
+r . . . p . . .
+. P P . . P . .
+P . . P . . P P
+R . B . K . . R
+
+Enter your move in UCI format
+a4a6
+. . . . . . . .
+p . . k . . . p
+r . . . p . p .
+. . b . . . . .
+. . . . p . . .
+. P P . . P . .
+P . . P . . P P
+R . B . K . . R
+
+(-21190, Move.from_uci('h1f1'))
+. . . . . . . .
+p . . k . . . p
+r . . . p . p .
+. . b . . . . .
+. . . . p . . .
+. P P . . P . .
+P . . P . . P P
+R . B . K R . .
+
+Enter your move in UCI format
+g6g7
+Invalid move. Enter again
+. . . . . . . .
+p . . k . . . p
+r . . . p . p .
+. . b . . . . .
+. . . . p . . .
+. P P . . P . .
+P . . P . . P P
+R . B . K R . .
+
+Enter your move in UCI format
+g7g6
+Invalid move. Enter again
+. . . . . . . .
+p . . k . . . p
+r . . . p . p .
+. . b . . . . .
+. . . . p . . .
+. P P . . P . .
+P . . P . . P P
+R . B . K R . .
+
+Enter your move in UCI format
+g6g5
+. . . . . . . .
+p . . k . . . p
+r . . . p . . .
+. . b . . . p .
+. . . . p . . .
+. P P . . P . .
+P . . P . . P P
+R . B . K R . .
+
+(-21100, Move.from_uci('f3e4'))
+. . . . . . . .
+p . . k . . . p
+r . . . p . . .
+. . b . . . p .
+. . . . P . . .
+. P P . . . . .
+P . . P . . P P
+R . B . K R . .
+
+Enter your move in UCI format
+e6e5
+. . . . . . . .
+p . . k . . . p
+r . . . . . . .
+. . b . p . p .
+. . . . P . . .
+. P P . . . . .
+P . . P . . P P
+R . B . K R . .
+
+(-20870, Move.from_uci('b3b4'))
+. . . . . . . .
+p . . k . . . p
+r . . . . . . .
+. . b . p . p .
+. P . . P . . .
+. . P . . . . .
+P . . P . . P P
+R . B . K R . .
+
+Enter your move in UCI format
+c6b7
+Invalid move. Enter again
+. . . . . . . .
+p . . k . . . p
+r . . . . . . .
+. . b . p . p .
+. P . . P . . .
+. . P . . . . .
+P . . P . . P P
+R . B . K R . .
+
+Enter your move in UCI format
+c5b6
+. . . . . . . .
+p . . k . . . p
+r b . . . . . .
+. . . . p . p .
+. P . . P . . .
+. . P . . . . .
+P . . P . . P P
+R . B . K R . .
+
+(-20870, Move.from_uci('f1f6'))
+. . . . . . . .
+p . . k . . . p
+r b . . . R . .
+. . . . p . p .
+. P . . P . . .
+. . P . . . . .
+P . . P . . P P
+R . B . K . . .
+
+Enter your move in UCI format
+d7e7
+. . . . . . . .
+p . . . k . . p
+r b . . . R . .
+. . . . p . p .
+. P . . P . . .
+. . P . . . . .
+P . . P . . P P
+R . B . K . . .
+
+(-20815, Move.from_uci('f6b6'))
+. . . . . . . .
+p . . . k . . p
+r R . . . . . .
+. . . . p . p .
+. P . . P . . .
+. . P . . . . .
+P . . P . . P P
+R . B . K . . .
+
+Enter your move in UCI format
+a6b6
+. . . . . . . .
+p . . . k . . p
+. r . . . . . .
+. . . . p . p .
+. P . . P . . .
+. . P . . . . .
+P . . P . . P P
+R . B . K . . .
+
+(-20750, Move.from_uci('d2d4'))
+. . . . . . . .
+p . . . k . . p
+. r . . . . . .
+. . . . p . p .
+. P . P P . . .
+. . P . . . . .
+P . . . . . P P
+R . B . K . . .
+
+Enter your move in UCI format
+e5d4
+. . . . . . . .
+p . . . k . . p
+. r . . . . . .
+. . . . . . p .
+. P . p P . . .
+. . P . . . . .
+P . . . . . P P
+R . B . K . . .
+
+(-20655, Move.from_uci('c1g5'))
+. . . . . . . .
+p . . . k . . p
+. r . . . . . .
+. . . . . . B .
+. P . p P . . .
+. . P . . . . .
+P . . . . . P P
+R . . . K . . .
+
+Enter your move in UCI format
+d7c7
+Invalid move. Enter again
+. . . . . . . .
+p . . . k . . p
+. r . . . . . .
+. . . . . . B .
+. P . p P . . .
+. . P . . . . .
+P . . . . . P P
+R . . . K . . .
+
+Enter your move in UCI format
+e7d7
+. . . . . . . .
+p . . k . . . p
+. r . . . . . .
+. . . . . . B .
+. P . p P . . .
+. . P . . . . .
+P . . . . . P P
+R . . . K . . .
+
+(-20695, Move.from_uci('g5d8'))
+. . . B . . . .
+p . . k . . . p
+. r . . . . . .
+. . . . . . . .
+. P . p P . . .
+. . P . . . . .
+P . . . . . P P
+R . . . K . . .
+
+Enter your move in UCI format
+d7d8
+. . . k . . . .
+p . . . . . . p
+. r . . . . . .
+. . . . . . . .
+. P . p P . . .
+. . P . . . . .
+P . . . . . P P
+R . . . K . . .
+
+(-20695, Move.from_uci('a1d1'))
+. . . k . . . .
+p . . . . . . p
+. r . . . . . .
+. . . . . . . .
+. P . p P . . .
+. . P . . . . .
+P . . . . . P P
+. . . R K . . .
+
+Enter your move in UCI format
+a7a6
+. . . k . . . .
+. . . . . . . p
+p r . . . . . .
+. . . . . . . .
+. P . p P . . .
+. . P . . . . .
+P . . . . . P P
+. . . R K . . .
+
+(-20690, Move.from_uci('d1d4'))
+. . . k . . . .
+. . . . . . . p
+p r . . . . . .
+. . . . . . . .
+. P . R P . . .
+. . P . . . . .
+P . . . . . P P
+. . . . K . . .
+
+Enter your move in UCI format
+d8c8
+. . k . . . . .
+. . . . . . . p
+p r . . . . . .
+. . . . . . . .
+. P . R P . . .
+. . P . . . . .
+P . . . . . P P
+. . . . K . . .
+
+(-20680, Move.from_uci('d4d5'))
+. . k . . . . .
+. . . . . . . p
+p r . . . . . .
+. . . R . . . .
+. P . . P . . .
+. . P . . . . .
+P . . . . . P P
+. . . . K . . .
+
+Enter your move in UCI format
+g7g6
+Invalid move. Enter again
+. . k . . . . .
+. . . . . . . p
+p r . . . . . .
+. . . R . . . .
+. P . . P . . .
+. . P . . . . .
+P . . . . . P P
+. . . . K . . .
+
+Enter your move in UCI format
+h7h6
+. . k . . . . .
+. . . . . . . .
+p r . . . . . p
+. . . R . . . .
+. P . . P . . .
+. . P . . . . .
+P . . . . . P P
+. . . . K . . .
+
+(-20640, Move.from_uci('d5h5'))
+. . k . . . . .
+. . . . . . . .
+p r . . . . . p
+. . . . . . . R
+. P . . P . . .
+. . P . . . . .
+P . . . . . P P
+. . . . K . . .
+
+Enter your move in UCI format
+b6e6
+. . k . . . . .
+. . . . . . . .
+p . . . r . . p
+. . . . . . . R
+. P . . P . . .
+. . P . . . . .
+P . . . . . P P
+. . . . K . . .
+
+(-20640, Move.from_uci('h5h6'))
+. . k . . . . .
+. . . . . . . .
+p . . . r . . R
+. . . . . . . .
+. P . . P . . .
+. . P . . . . .
+P . . . . . P P
+. . . . K . . .
+
+Enter your move in UCI format
+e6h6
+. . k . . . . .
+. . . . . . . .
+p . . . . . . r
+. . . . . . . .
+. P . . P . . .
+. . P . . . . .
+P . . . . . P P
+. . . . K . . .
+
+(-20645, Move.from_uci('e1f2'))
+. . k . . . . .
+. . . . . . . .
+p . . . . . . r
+. . . . . . . .
+. P . . P . . .
+. . P . . . . .
+P . . . . K P P
+. . . . . . . .
+
+Enter your move in UCI format
+h6e6
+. . k . . . . .
+. . . . . . . .
+p . . . r . . .
+. . . . . . . .
+. P . . P . . .
+. . P . . . . .
+P . . . . K P P
+. . . . . . . .
+
+(-20640, Move.from_uci('g2g4'))
+. . k . . . . .
+. . . . . . . .
+p . . . r . . .
+. . . . . . . .
+. P . . P . P .
+. . P . . . . .
+P . . . . K . P
+. . . . . . . .
+
+Enter your move in UCI format
+e6e4
+. . k . . . . .
+. . . . . . . .
+p . . . . . . .
+. . . . . . . .
+. P . . r . P .
+. . P . . . . .
+P . . . . K . P
+. . . . . . . .
+
+(-20635, Move.from_uci('f2f3'))
+. . k . . . . .
+. . . . . . . .
+p . . . . . . .
+. . . . . . . .
+. P . . r . P .
+. . P . . K . .
+P . . . . . . P
+. . . . . . . .
+
+Enter your move in UCI format
+e4c4
+. . k . . . . .
+. . . . . . . .
+p . . . . . . .
+. . . . . . . .
+. P r . . . P .
+. . P . . K . .
+P . . . . . . P
+. . . . . . . .
+
+(-20640, Move.from_uci('f3g3'))
+. . k . . . . .
+. . . . . . . .
+p . . . . . . .
+. . . . . . . .
+. P r . . . P .
+. . P . . . K .
+P . . . . . . P
+. . . . . . . .
+
+Enter your move in UCI format
+c4c3
+. . k . . . . .
+. . . . . . . .
+p . . . . . . .
+. . . . . . . .
+. P . . . . P .
+. . r . . . K .
+P . . . . . . P
+. . . . . . . .
+
+(-20645, Move.from_uci('g3h4'))
+. . k . . . . .
+. . . . . . . .
+p . . . . . . .
+. . . . . . . .
+. P . . . . P K
+. . r . . . . .
+P . . . . . . P
+. . . . . . . .
+
+Enter your move in UCI format
+c3c4
+. . k . . . . .
+. . . . . . . .
+p . . . . . . .
+. . . . . . . .
+. P r . . . P K
+. . . . . . . .
+P . . . . . . P
+. . . . . . . .
+
+(-20640, Move.from_uci('h4h5'))
+. . k . . . . .
+. . . . . . . .
+p . . . . . . .
+. . . . . . . K
+. P r . . . P .
+. . . . . . . .
+P . . . . . . P
+. . . . . . . .
+
+Enter your move in UCI format
+c4b4
+. . k . . . . .
+. . . . . . . .
+p . . . . . . .
+. . . . . . . K
+. r . . . . P .
+. . . . . . . .
+P . . . . . . P
+. . . . . . . .
+
+(-20645, Move.from_uci('h5h6'))
+. . k . . . . .
+. . . . . . . .
+p . . . . . . K
+. . . . . . . .
+. r . . . . P .
+. . . . . . . .
+P . . . . . . P
+. . . . . . . .
+
+Enter your move in UCI format
+c4g4
+Invalid move. Enter again
+. . k . . . . .
+. . . . . . . .
+p . . . . . . K
+. . . . . . . .
+. r . . . . P .
+. . . . . . . .
+P . . . . . . P
+. . . . . . . .
+
+Enter your move in UCI format
+b4g4
+. . k . . . . .
+. . . . . . . .
+p . . . . . . K
+. . . . . . . .
+. . . . . . r .
+. . . . . . . .
+P . . . . . . P
+. . . . . . . .
+
+(-20645, Move.from_uci('h6h7'))
+. . k . . . . .
+. . . . . . . K
+p . . . . . . .
+. . . . . . . .
+. . . . . . r .
+. . . . . . . .
+P . . . . . . P
+. . . . . . . .
+
+Enter your move in UCI format
+g4h4
+. . k . . . . .
+. . . . . . . K
+p . . . . . . .
+. . . . . . . .
+. . . . . . . r
+. . . . . . . .
+P . . . . . . P
+. . . . . . . .
+
+(-20645, Move.from_uci('h7g6'))
+. . k . . . . .
+. . . . . . . .
+p . . . . . K .
+. . . . . . . .
+. . . . . . . r
+. . . . . . . .
+P . . . . . . P
+. . . . . . . .
+
+Enter your move in UCI format
+h4h2
+. . k . . . . .
+. . . . . . . .
+p . . . . . K .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P . . . . . . r
+. . . . . . . .
+
+(-20650, Move.from_uci('g6g7'))
+. . k . . . . .
+. . . . . . K .
+p . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P . . . . . . r
+. . . . . . . .
+
+Enter your move in UCI format
+h2f2
+. . k . . . . .
+. . . . . . K .
+p . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P . . . . r . .
+. . . . . . . .
+
+(-20645, Move.from_uci('g7h8'))
+. . k . . . . K
+. . . . . . . .
+p . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P . . . . r . .
+. . . . . . . .
+
+Enter your move in UCI format
+f2g2
+. . k . . . . K
+. . . . . . . .
+p . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P . . . . . r .
+. . . . . . . .
+
+(-20645, Move.from_uci('h8h7'))
+. . k . . . . .
+. . . . . . . K
+p . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P . . . . . r .
+. . . . . . . .
+
+Enter your move in UCI format
+c8d7
+. . . . . . . .
+. . . k . . . K
+p . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P . . . . . r .
+. . . . . . . .
+
+(-20650, Move.from_uci('h7h8'))
+. . . . . . . K
+. . . k . . . .
+p . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P . . . . . r .
+. . . . . . . .
+
+Enter your move in UCI format
+d7e7
+. . . . . . . K
+. . . . k . . .
+p . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P . . . . . r .
+. . . . . . . .
+
+(-25000, Move.from_uci('h5h6'))
+. . . . . . . .
+. . . . . k . .
+. . . . . . . K
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+p . . . . . r .
+. . . . . . . .
+
+Enter your move in UCI format
+a2a1q
+. . . . . . . .
+. . . . . k . .
+. . . . . . . K
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . r .
+q . . . . . . .
+
+(-25000, Move.from_uci('h6h7'))
+. . . . . . . .
+. . . . . k . K
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . r .
+q . . . . . . .
+
+Enter your move in UCI format
+g2h2
+. . . . . . . .
+. . . . . k . K
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . r
+q . . . . . . .
+
+Yayyy you win :)
+
